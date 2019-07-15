@@ -1,4 +1,6 @@
-# test-sys-server
+# SHES-server
+Super Hybrid Examination System(听起来有点中二啊)
+
 # 考试系统后端
 
 >这是一个考试系统的后端，前端的仓库还没搭建，（这个项目也不知道什么时候能完成），后端按照目前的想法，后端支持2种运行模式。
